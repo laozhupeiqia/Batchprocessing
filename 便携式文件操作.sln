@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "便携式文件操作", "便携式文件操作\便携式文件操作.csproj", "{2BB1104D-4025-436D-B5A8-CF4C70FD1A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB1104D-4025-436D-B5A8-CF4C70FD1A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB1104D-4025-436D-B5A8-CF4C70FD1A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB1104D-4025-436D-B5A8-CF4C70FD1A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB1104D-4025-436D-B5A8-CF4C70FD1A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80390E75-8F0F-4EF0-91D9-C3792367E89E}
+	EndGlobalSection
+EndGlobal

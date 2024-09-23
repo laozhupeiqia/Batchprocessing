@@ -1,0 +1,16 @@
+D:\vsss\学习用\便携式文件操作\便携式文件操作\bin\Debug\net8.0-windows\便携式文件操作.exe
+D:\vsss\学习用\便携式文件操作\便携式文件操作\bin\Debug\net8.0-windows\便携式文件操作.deps.json
+D:\vsss\学习用\便携式文件操作\便携式文件操作\bin\Debug\net8.0-windows\便携式文件操作.runtimeconfig.json
+D:\vsss\学习用\便携式文件操作\便携式文件操作\bin\Debug\net8.0-windows\便携式文件操作.dll
+D:\vsss\学习用\便携式文件操作\便携式文件操作\bin\Debug\net8.0-windows\便携式文件操作.pdb
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.Form1.resources
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.csproj.GenerateResource.cache
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.AssemblyInfoInputs.cache
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.AssemblyInfo.cs
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.csproj.CoreCompileInputs.cache
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.dll
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\refint\便携式文件操作.dll
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.pdb
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\便携式文件操作.genruntimeconfig.cache
+D:\vsss\学习用\便携式文件操作\便携式文件操作\obj\Debug\net8.0-windows\ref\便携式文件操作.dll
